@@ -1,0 +1,19 @@
+.odd-numbers{
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}           
+#second-element{
+    color: blue;
+    font-size: 36px;
+
+}
+.third-element{
+    font-size: 24px;
+}
+
+#forth-element{
+    background-color: yellowgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
